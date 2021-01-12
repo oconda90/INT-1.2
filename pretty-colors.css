@@ -18,7 +18,10 @@ body {
     padding-top:200px;
     padding-bottom:200px;
   }
-
+#Profile{
+  display: flex;
+  flex-direction: row;
+}
   
   
   
